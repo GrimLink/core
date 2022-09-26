@@ -11,13 +11,6 @@ Native HTML Elements with CSS superpowers. 🕶 <br>
 
 ---
 
-<h3 align="center">
-  → <a href="https://native-elements.dev"><b>Documentation</b></a>
-  —
-  <a href="https://app.native-elements.dev"><b>Theme Builder</b></a> ←
-</h3>
-
----
 
 Native Elements (NE) is not a CSS framework, no bundlers required or tons of configurations to set.
 
